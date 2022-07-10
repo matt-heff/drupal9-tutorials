@@ -1,0 +1,6 @@
+name: Simple Module
+type: module
+description: "Demo a creating a simple Drupal 9 Module."
+package: Custom
+version: 0.5
+core_version_requirement: ^8 || ^9

@@ -1,0 +1,8 @@
+simple_module.demopage:
+  path: '/simple/demopage'
+  defaults:
+    _controller: '\Drupal\simple_module\Controller
+\SimpleController::demopage'
+    _title: 'Simple Demo page for Drupal 9'
+  requirements: 
+    _permission: 'access content'
